@@ -1,5 +1,4 @@
 {
-	"genres": ["drama", "infantil", "aventura", "cuento de hadas", "fantasia" , "comedia"],
 	"character": [
 
 		{
@@ -334,6 +333,38 @@
 			"releaseDate": "02-06-2015",
 			"scoreMovie": 3.6,
 			"character" : ["Leroy", "Stitch"]
+		}
+	],
+	"genres": [
+		{
+			"name" : "drama",
+			"image" : "https://c8.alamy.com/compes/e51e5d/badajo-junta-drama-e51e5d.jpg", 
+			"associatedMovie"  : ["Bambi","Bambi 2 - El gran príncipe del bosque"]
+		},
+		{
+			"name" : "Infantil",
+			"image" : "https://i.pinimg.com/originals/18/d1/f1/18d1f152c2a48ab08802106f0671ecff.jpg", 
+			"associatedMovie"  : ["Bambi","Bambi 2 - El gran príncipe del bosque"]
+		},
+		{
+			"name" : "aventura",
+			"image" : "https://img.remediosdigitales.com/0271aa/pelis-disney/1366_2000.jpg", 
+			"associatedMovie"  : ["Bambi","Bambi 2 - El gran príncipe del bosque"]
+		},
+		{
+			"name" : "cuento de hadas",
+			"image" : "https://es.web.img3.acsta.net/r_654_368/newsv7/20/03/20/15/04/2782147.jpg", 
+			"associatedMovie"  : ["Bambi","Bambi 2 - El gran príncipe del bosque"]
+		},
+		{
+			"name" : "fantasia",
+			"image" : "https://saposyprincesas.elmundo.es/wp-content/uploads/2015/10/fantasia-disney.jpg", 
+			"associatedMovie"  : ["Bambi","Bambi 2 - El gran príncipe del bosque"]
+		},
+		{
+			"name" : "comedia",
+			"image" : "https://www.etapainfantil.com/wp-content/uploads/2021/05/Mejores-peliculas-Disney.jpg", 
+			"associatedMovie"  : ["Bambi","Bambi 2 - El gran príncipe del bosque"]
 		}
 	]
 }
