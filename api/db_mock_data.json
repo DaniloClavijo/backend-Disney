@@ -1,0 +1,339 @@
+{
+	"genres": ["drama", "infantil", "aventura", "cuento de hadas", "fantasia" , "comedia"],
+	"character": [
+
+		{
+            "image": "https://static.wikia.nocookie.net/disney/images/2/29/LiloPelekai.png/revision/latest?cb=20130724165230&path-prefix=es",
+			"aux_images": ["", ""],
+            "Name": "Lilo Pelekai", 
+            "Age" : 6, 
+			"weigth":19.6,
+			"Historia": "Lilo vive con su hermana mayor Nani, la cual, al ver que Lilo se siente sola, decide adoptar un perro para ella. En la perrera, Lilo conoce a un extraterrestre al que confunde con un perro, y al que llama Stitch. Estando con él, Lilo empieza a ver que hace muchas cosas malas, por lo que intenta educarle para que se comporte de mejor forma. Stitch, al sentirse solo, se marcha de casa, entristeciendo a Lilo. Sin embargo, después vuelve para ocultarse de Jumba y Pleakley, y tras una batalla destrozan la casa, haciendo que Cobra Burbujas quiera llevarse a Lilo a un mejor hogar, por lo que Lilo se escapa, y al toparse con Stitch, le dice que no quiere volver a verle. En ese momento, son capturados por Gantu, aunque Stitch logra escapar, y afortunadamente, logra rescatar a Lilo junto con Jumba, Pleakley, y Nani. Una vez en la playa, la Gran Consejera Galáctica quiere llevarse a Stitch, pero Lilo le dice que le pertenece, ya que lo adoptó en la perrera, por lo que la Gran Consejera le deja quedarse con Stitch, y ser juntos una familia",
+			"associatedMovie": ["Lilo & Stitch" , "Lilo & Stitch 2: El efecto del Defecto", "Leroy y Stitch"  ]
+		},
+
+		{
+			"image": "https://static.wikia.nocookie.net/videojuego/images/5/5f/Stitch.png/revision/latest?cb=20170719182801",
+			"aux_images": ["https://lumiere-a.akamaihd.net/v1/images/stitch_2_fe569138.png", ""],
+            "Name": "Stitch", 
+            "Age" : "unknown", 
+			"weigth":54.4,
+			"Historia": "El Experimento 626 llega a la Tierra, donde es atropellado por un camión y le llevan a la perrera. Allí es adoptado por Lilo, que le pone el nombre de Stitch y le ayuda a convertirse en bueno. Stitch se da cuenta de que Jumba, su creador, y el Agente Pleakley le persiguen, así que utiliza a Lilo de escudo para que no le atrapen.",
+			"associatedMovie": ["Lilo & Stitch" ,"Lilo & Stitch (Serie de TV)" ,  "La pelicula de Stitch" , "Lilo & Stitch 2: Stitch en corto circuito", "Leroy y Stitch" ]	
+        },
+        {
+            "image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_aladdin_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Aladdín", 
+            "Age" : 18, 
+			"weigth":60,
+			"Historia": "Aladdin es un ingenioso joven que vive en una extrema pobreza, y que sueña con casarse con la bella hija del sultán, la princesa Yasmine. El destino interviene cuando el astuto visir del Sultán, Yafar, recluta a Aladdin para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas. Aladdin encuentra una lámpara maravillosa con un genio dentro, y sus deseos comienzan a hacerse realidad",
+			"associatedMovie": ["Aladdín" ,"el retorno de Jafar" ,  "Aladdín y los 40 ladrones"]
+		},
+
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_alice_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["https://lumiere-a.akamaihd.net/v1/images/stitch_2_fe569138.png", ""],
+            "Name": "Alicia", 
+            "Age" : "7", 
+			"weigth":18,
+			"Historia": "Después de seguir a un misterioso conejo, Alicia se embarca en una aventura fantástica en un mundo mágico repleto de personajes únicos y divertidos y de grandes confusiones en el País de las Maravillas.",
+			"associatedMovie": ["Alicia en el pais de las maravillas" ]	
+        },
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_ariel_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Ariel", 
+            "Age" : "16", 
+			"weigth":38,
+			"Historia": "Ariel es una princesa sirena de 16 años de edad cuyo padre es el rey Tritón, el rey gobernante supremo del fondo del mar y del océano, y no está del todo feliz con su vida bajo el mar, pues tiene curiosidad de conocer el mundo de los seres humanos",
+			"associatedMovie": ["La Sirenita" , "la Sirenita 2 : el regreso al mar" , "La sirenita: los comienzos de Ariel " ]	
+		},
+        {
+            "image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_bambi_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Bambi", 
+            "Age" : 1, 
+			"weigth":7,
+			"Historia": "Bambi es un pequeño cervatillo recién nacido, tímido e inseguro que vive con su madre en el bosque. Poco a poco irá haciendo nuevos amigos como el conejo Tambor, la mofeta Flor y la cervatilla Faline a la vez que irá aprendiendo grandes lecciones de su madre, hasta que la pierde por culpa de los cazadores",
+			"associatedMovie": ["Bambi" , "Bambi 2 - El gran príncipe del bosque"]
+		},
+
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_elsa_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["https://lumiere-a.akamaihd.net/v1/images/stitch_2_fe569138.png", ""],
+            "Name": "Elsa", 
+            "Age" : 21, 
+			"weigth":68,
+			"Historia": "Una profecía condena al reino de Arandelle a vivir en un invierno eterno. La joven Anna, el temerario montañero Kristoff y el reno Sven deben emprender un viaje épico y lleno de aventuras en busca de Elsa, la hermana de Anna y Reina de las Nieves. Ella es la única que puede poner fin al gélido hechizo.",
+			"associatedMovie": ["Frozen: una aventura congelada" , "Frozen : Fiebre congelada" , "Frozen 2" ]	
+        },
+
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_hercules_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Hercules", 
+            "Age" : 18, 
+			"weigth":75.8,
+			"Historia": "Hércules, hijo de Hera y el dios Zeus, es robado del Olimpo por los secuaces de Hades para llevarlo a la Tierra y despojarlo de su inmortalidad. Sin embargo, el plan no resulta como se esperaba y el niño aun conserva algunos poderes divinos. Durante su adolescencia, Hércules deberá demostrar que es digno de volver a ascender al Olimpo con los otros dioses. Con la ayuda del sátiro Filoctetes, Hércules aprenderá a usar su fuerza para luchar contra una serie de criaturas malvadas.",
+			"associatedMovie": ["Hercules" ]	
+		},
+        {
+            "image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_mickey_mouse_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Mike Wazowski", 
+            "Age" : 15, 
+			"weigth":7,
+			"Historia": " Es un vivaraz monstruo verde de un solo ojo, Es el mejor amigo de Sulley y su ayudante en la empresa Monstruos S.A. Es el novio de Celia Mae. También parece ser quien se encarga del papeleo de Roz. En la película, él y Sulley se encargan de devolver una niña humana a su mundo.",
+			"associatedMovie": ["Monsters Inc" , "Monster University" ]
+		},
+
+		{
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbDl7oReiPUiXoGwq3GhOxMQjpIg15I22tNQzK39d&s",
+			"aux_images": ["https://lumiere-a.akamaihd.net/v1/images/stitch_2_fe569138.png", ""],
+            "Name": "Boo", 
+            "Age" : 2, 
+			"weigth":3,
+			"Historia": "Ella es una niña humana de dos años de edad que se escapó de su habitación después de que Randall intentara secuestrarla para sus experimentos. Luego de su primer encuentro con Sulley, Sulley y Mike trataron en repetidas ocasiones devolverla a su hogar.",
+			"associatedMovie": ["Monsters Inc" , "Monster University"]	
+        },
+		{
+			"image": "https://m.media-amazon.com/images/I/61FG641dbtL._AC_SL1500_.jpg",
+			"aux_images": ["", ""],
+            "Name": "James P. Sullivan", 
+            "Age" : "17", 
+			"weigth":100,
+			"Historia": "Sullivan era el mejor asustador que tenía la compañía. Era un orgullo para su director, en especial en los tiempos difíciles que corrían, superando por mucho a su némesis, Randall. Sin embargo, todo cambia un día en el que se olvidan una puerta abierta, y aparece una niña del otro lado.",
+			"associatedMovie": ["Monsters Inc" , "Monster University"]	
+		},
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_woody_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Woody", 
+            "Age" : "10", 
+			"weigth":1,
+			"Historia": "Woody es un juguete leal que ha sido el juguete favorito de Andy desde la guardería. Es determinado, apasionado, y haría cualquier cosa por sus amigos más queridos y cercanos. Considera cada uno de los juguetes como una familia y hace todo lo posible para mantener a su familia unida en todo momento.",
+			"associatedMovie": ["Toy Story","Toy Story 2","Toy Story 3","Toy Story 4"]	
+		}	
+		,
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_buzz_lightyear_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Buzz Ligthyear", 
+            "Age" : "10", 
+			"weigth":2,
+			"Historia": "En las películas Buzz es un juguete con forma de guerrero espacial, el cual llega hasta las manos de Andy, un niño con una gran colección de juguetes. En casa de Andy conocerá al resto de juguetes como son Woody, el Sr. Patata o Rex, entre otros.",
+			"associatedMovie": ["Toy Story","Toy Story 2","Toy Story 3","Toy Story 4" , "Lightyear"]	
+		}
+		,
+		{
+			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_buzz_lightyear_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"aux_images": ["", ""],
+            "Name": "Leroy", 
+            "Age" : "10", 
+			"weigth":2,
+			"Historia": "El es el hermano menor de stitch creado para formar un ejercito y derrotar a stitch ",
+			"associatedMovie": ["Leroy y Stitch"]	
+		}					
+	],
+	"users": [
+		{
+			"fullName": "Cristian",
+			"password": "Cristian12",
+			"email": "Cristian@correo.com",
+			"id_document": 12,
+			"role": "Admin"
+		},
+		{
+			"fullName": "Danilo",
+			"password": "Danilo23",
+			"email": "Danilo@correo.com",
+			"id_document": 23,
+			"role": "User"
+		},
+		{
+			"fullName": "Jota",
+			"password": "Jota34",
+			"email": "Jota@correo.com",
+			"id_document": 34,
+			"role": "Admin"
+		},
+		{
+			"fullName": "Rodri",
+			"password": "Rodri45",
+			"email": "Rodri@correo.com",
+			"id_document": 45,
+			"role": "User"
+		},
+		{
+			"fullName": "Camilo",
+			"password": "Camilo56",
+			"email": "Camilo@correo.com",
+			"id_document": 56,
+			"role": "Admin"
+		}
+	],
+	"Movie": [
+		{
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6011B82FBD66023AAA1AE0ADD381093017F5478CA86048FA28C3415441FA101D/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title": "Lilo & Stitch",
+			"releaseDate": "15-05-2002",
+			"scoreMovie": 4.3,
+			"character" : ["Lilo" , "Stitch"]
+		},
+		{
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkKtsXU3IgLm_bcSTn8G1RuURem0W7cuQvG_qIIKTcjlVJNav",
+			"title": "Lilo & Stitch 2: El efecto del Defecto",
+			"releaseDate": "02-10-2004",
+			"scoreMovie": 5,
+			"character" : ["Lilo","Stitch"]
+		},
+		{
+			"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR320IQC_fe1LZsZmvnytgkQr9Scw4lUd9kpLvNnufRCyujYauC",
+			"title": "Leroy y Stitch",
+			"releaseDate": 1,
+			"scoreMovie": 1,
+			"character" : ["Lilo","Stitch","Leroy"]
+		},
+		{
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AE48922729724AEA1BD361DBBEE747E101486267F73D26DBF8E24BA20F69E133/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title": "Aladdín",
+			"releaseDate": "05-17-1992",
+			"scoreMovie": 3.2,
+			"character" : ["Aladdín"]
+		},
+		{ 
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/19CC955BD357450B20B524D0F9883A066269F6369326767E9853E392A0953CCD/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title":"Aladdín y los 40 ladrones",
+			"releaseDate": "1-05-1994",
+			"scoreMovie": 1.9,
+			"character" : ["Aladdín"]
+		},
+		{
+			"image": "https://static.wikia.nocookie.net/disney/images/c/c2/ReturnOfJafar.png/revision/latest?cb=20140721082959&path-prefix=es",
+			"title":"El retorno de Jafar",
+			"releaseDate": "07-06-1996",
+			"scoreMovie": 1.7,
+			"character" : ["Aladdín"]
+		},
+		{
+			"image": "https://ep00.epimg.net/verne/imagenes/2015/08/24/articulo/1440417628_800425_1440424601_noticia_normal.jpg",
+			"title":"Alicia en el pais de las maravillas",
+			"releaseDate": "02-06-2003",
+			"scoreMovie": 1.7,
+			"character" : ["Alicia"]
+		},
+		{
+			"image": "https://static.wikia.nocookie.net/doblaje/images/6/6f/28a.jpg/revision/latest?cb=20200812013209&path-prefix=es",
+			"title":"La Sirenita" ,
+			"releaseDate": "26-06-2001",
+			"scoreMovie": 1.7,
+			"character" : ["Ariel"]
+		},
+		{
+			"image": "https://i.ytimg.com/vi/XgtKPisffmA/hqdefault.jpg",
+			"title":"la Sirenita 2 : el regreso al mar",
+			"releaseDate": "02-12-2002",
+			"scoreMovie": 1.7,
+			"character" : ["Ariel"]
+		},
+		{
+			"image": "https://static.wikia.nocookie.net/doblaje/images/5/51/La_Sirenita_3.jpg/revision/latest?cb=20091105154931&path-prefix=es",
+			"title":"La sirenita: los comienzos de Ariel ",
+			"releaseDate": "02-12-2003",
+			"scoreMovie": 3.5,
+			"character" : ["Ariel"]
+		},
+		{
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0EC05236F844C33850F2DE10A31E39DBEC4AA1451878598636F3B4E1C19F32B/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title":"Bambi",
+			"releaseDate": "01-09-1990",
+			"scoreMovie": 4.2,
+			"character" : ["Bambi"]
+		},
+		{
+			"image": "https://1.bp.blogspot.com/-j_3_KdYDxAg/Xfw6bsSKEyI/AAAAAAAATe0/wYvR_JiKZmYRetg4GWXz4mj3M_6fQ4FnwCLcBGAsYHQ/s1600/Cuentacuentos-Bambi-1000x1000.jpg",
+			"title": "Bambi 2 - El gran príncipe del bosque",
+			"releaseDate": "22-11-1993",
+			"scoreMovie": 4.8,
+			"character" : ["Bambi"]
+		},
+		{
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AB0CD51171D649DDB017376A377F82AF9706E733F92EC260C598F43ED9852398/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title":"Frozen: una aventura congelada",
+			"releaseDate": "5-12-2008",
+			"scoreMovie": 1.8,
+			"character" : ["Elsa"]
+		},
+		{
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F35B60E65C1B32D211BAB5EAAC2B6BB73BD51362E006A11C30AC11A0642D9655/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title":"Frozen 2",
+			"releaseDate": "02-06-2010",
+			"scoreMovie": 4.6,
+			"character" : ["Elsa"]
+		},
+		{
+			"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hercules-disney-remake-carne-hueso-1588377851.jpg?crop=1.00xw:0.895xh;0,0.0456xh&resize=1200:*",
+			"title":"Hercules" ,
+			"releaseDate": "25-09-2000",
+			"scoreMovie": 2.3,
+			"character" : ["Hercules"]
+		},
+		{
+			"image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/BCWNAG4MNRBSLHAM7COBNDWIJM.jpg",
+			"title":"Monsters Inc",
+			"releaseDate": "02-7-2009",
+			"scoreMovie": 1.7,
+			"character" : ["Mike Wazowski" , "Boo","James P. Sullivan" ]
+		},
+		{
+			"image": "https://static.wikia.nocookie.net/el-mundo-de-pixar/images/4/44/635979930461587507-1197286906_Monsters_University.jpg/revision/latest/scale-to-width-down/356?cb=20160909071004",
+			"title":"Monster University",
+			"releaseDate": "02-6-2010",
+			"scoreMovie": 3.5,
+			"character" : ["Mike Wazowski" ,"James P. Sullivan"]
+		},
+		{ 
+			"image": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
+			"title":"Toy Story",
+			"releaseDate": "01-09-2001",
+			"scoreMovie": 4.2,
+			"character" : ["Buzz Ligthyear" , "Woody"]
+		},
+		{
+			"image": "https://static.wikia.nocookie.net/doblaje/images/9/92/Toy_Story_2_-_Poster.jpg/revision/latest/top-crop/width/360/height/450?cb=20200724211605&path-prefix=es",
+			"title": "Toy Story 2",
+			"releaseDate": "22-11-2002",
+			"scoreMovie": 4.8,
+			"character" : ["Buzz Ligthyear" , "Woody"]
+		},
+		{
+			"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0A8E890D9573D4181319318C017800B85D5B72392B6C59B89713CCF9D042D50E/scale?width=1200&aspectRatio=1.78&format=jpeg",
+			"title":"Toy Story 3",
+			"releaseDate": "02-06-2003",
+			"scoreMovie": 1.7,
+			"character" : ["Buzz Ligthyear" , "Woody"]
+		},
+		{
+			"image": "https://pics.filmaffinity.com/Toy_Story_4-295828641-large.jpg",
+			"title":"Toy Story 4",
+			"releaseDate": "02-06-2004",
+			"scoreMovie": 1.7,
+			"character" : ["Buzz Ligthyear" , "Woody"]
+		},
+		{
+			"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lightyear-epic-payoff-spain-1651766764.jpg?resize=480:*",
+			"title":"Lightyear",
+			"releaseDate": "02-06-2015",
+			"scoreMovie": 3.6,
+			"character" : ["Buzz Ligthyear" , "Woody"]
+		},
+		{
+			"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lightyear-epic-payoff-spain-1651766764.jpg?resize=480:*",
+			"title":"Leroy y Stitch",
+			"releaseDate": "02-06-2015",
+			"scoreMovie": 3.6,
+			"character" : ["Leroy", "Stitch"]
+		}
+	]
+}
