@@ -20,7 +20,7 @@ module.exports = (sequelize) => {
         type: DataTypes.STRING, 
       }, 
     releaseDate: {
-          type: DataTypes.INTEGER, 
+          type: DataTypes.STRING, 
         }, 
     scoreMovie: {
           type: DataTypes.FLOAT, 

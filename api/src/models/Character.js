@@ -22,11 +22,8 @@ module.exports = (sequelize) => {
     history: {
           type: DataTypes.TEXT, 
         },
-    moovie: {
-          type: DataTypes.INTEGER, 
-        },
     associatedMovie: {
-          type: DataTypes.STRING, 
+          type: DataTypes.ARRAY(DataTypes.STRING), 
         }, 
 
   },

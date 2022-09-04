@@ -2,7 +2,7 @@
 	"character": [
 
 		{
-            "image": "https://static.wikia.nocookie.net/disney/images/2/29/LiloPelekai.png/revision/latest?cb=20130724165230&path-prefix=es",
+            "image": "https://i.pinimg.com/originals/87/d5/e3/87d5e375ec429b8d68a5c6a07806a2fe.png",
 			"aux_images": ["", ""],
             "Name": "Lilo Pelekai", 
             "Age" : 6, 
@@ -78,7 +78,7 @@
 			"associatedMovie": ["Hercules" ]	
 		},
         {
-            "image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_mickey_mouse_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+            "image": "https://i.pinimg.com/originals/4b/46/9b/4b469b749be59ece0d42ee342dc43cc1.jpg",
 			"aux_images": ["", ""],
             "Name": "Mike Wazowski", 
             "Age" : 15, 
@@ -88,7 +88,7 @@
 		},
 
 		{
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbDl7oReiPUiXoGwq3GhOxMQjpIg15I22tNQzK39d&s",
+			"image": "https://i.pinimg.com/originals/1b/fe/9b/1bfe9b20ffa15c75d20f33a2248a3413.png",
 			"aux_images": ["https://lumiere-a.akamaihd.net/v1/images/stitch_2_fe569138.png", ""],
             "Name": "Boo", 
             "Age" : 2, 
@@ -97,7 +97,7 @@
 			"associatedMovie": ["Monsters Inc" , "Monster University"]	
         },
 		{
-			"image": "https://m.media-amazon.com/images/I/61FG641dbtL._AC_SL1500_.jpg",
+			"image": "https://http2.mlstatic.com/D_NQ_NP_610604-MLA43633614482_092020-O.webp",
 			"aux_images": ["", ""],
             "Name": "James P. Sullivan", 
             "Age" : "17", 
@@ -126,7 +126,7 @@
 		}
 		,
 		{
-			"image": "https://cdn.s7.shopdisney.eu/is/image/ShopDisneyEMEA/33631_buzz_lightyear_character_sq_l?$characterImageSizeDesktop1x$&fit=constrain",
+			"image": "https://static.wikia.nocookie.net/disney/images/4/41/Leroy.png/revision/latest?cb=20100208195700&path-prefix=es",
 			"aux_images": ["", ""],
             "Name": "Leroy", 
             "Age" : "10", 

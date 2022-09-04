@@ -21,7 +21,7 @@ const server = require('./src/app.js');
 const { conn } = require('./src/db.js');
 
 // Syncing all the models at once.
-conn.sync({ force: true }).then(() => {
+conn.sync({ force: false }).then(() => {
   server.listen(process.env.PORT || 3001, () => {
     console.log(`%s the server is running on port ${process.env.PORT} \n and the connection with the db postgresql is successful`); // eslint-disable-line no-console
   });
