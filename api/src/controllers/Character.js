@@ -29,7 +29,8 @@ const getAllInfoCharacter = async () => {
 
 // ahora trabajar con la base de datos donde esta toda la info de los personajes
 const getCharacter = async () => {
-    const allInfo =  await getAllInfoCharacter(); 
+    const allInfo =  await Character.findAll(
+) 
     const mapInfo =  await allInfo.map ( el => {
        return {
            id : el.id,
@@ -37,12 +38,24 @@ const getCharacter = async () => {
            image : el.image ,
         }
     })
-
     return mapInfo
- 
+}
 
+const SearchCharacterByName = async (nameCharacter) =>{
+
+  try {
+    const character = await Character.findAll({
+    where: { name: { [Op.substring]: nameCharacter } },
+		});
+    return character
+    
+  } catch (error) {
+    console.log(error)
+  }
+  
 }
 module.exports = {
   getAllInfoCharacter,
-  getCharacter
+  getCharacter,
+  SearchCharacterByName
 };

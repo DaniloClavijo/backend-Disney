@@ -10,7 +10,7 @@ router.get("/" , async (req,res,next) =>{
         const character = await characterController.getCharacter();
         res.json({
             status : "Api info loaded" , 
-            results: await character,
+            results: character,
         })
         
     } catch (error) {
